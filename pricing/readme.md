@@ -13,18 +13,25 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="6">OpenAI</td>
-      <td>gpt-4o-mini</td>
+      <td rowspan="7">OpenAI</td>
+      <td>o1-mini</td>
       <td>12/09/24</td>
       <td>$3.00</td>
       <td>$12.00</td>
       <td>128K</td>
     </tr>
     <tr>
-      <td>gpt-4o-preview</td>
+      <td>o1-preview</td>
       <td>12/09/24</td>
       <td>$15.00</td>
       <td>$60.00</td>
+      <td>128K</td>
+    </tr>
+    <tr>
+      <td>gpt-4o-mini</td>
+      <td>18/07/24</td>
+      <td>$0.15</td>
+      <td>$0.60</td>
       <td>128K</td>
     </tr>
     <tr>
@@ -108,28 +115,28 @@
     </tr>
     <tr>
       <td rowspan="4">Groq</td>
-      <td>Llama 3.1 TOB</td>
+      <td>Llama 3.1 70B</td>
       <td>23/07/24</td>
       <td>$0.59</td>
       <td>$0.79</td>
       <td>8K</td>
     </tr>
     <tr>
-      <td>Llama 3.1 BB</td>
+      <td>Llama 3.1 8B</td>
       <td>23/07/24</td>
       <td>$0.05</td>
       <td>$0.08</td>
       <td>8K</td>
     </tr>
     <tr>
-      <td>Llama 3 TOB</td>
+      <td>Llama 3 70B</td>
       <td>18/04/24</td>
       <td>$0.59</td>
       <td>$0.79</td>
       <td>8K</td>
     </tr>
     <tr>
-      <td>Llama 3 BB</td>
+      <td>Llama 3 8B</td>
       <td>18/04/24</td>
       <td>$0.05</td>
       <td>$0.08</td>
